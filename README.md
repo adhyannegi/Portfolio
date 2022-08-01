@@ -1,1 +1,1 @@
-# portfolio
+I just started learning web development and this is my first project on it. I decided to create my portfolio website. I have used HTML and CSS for this project, but might also add javascript as I get to know more about it.
